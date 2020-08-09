@@ -14,7 +14,7 @@ This Digital Service Standard is envisioned to be part of an interconnected set 
 
 It is envisioned that this Standard will eventually reside as a GitHub repository at https://github.com/bcgov/ and online at a location to be determined (which may or may not be https://digital.gov.bc.ca/). The content has been borrowed heavily - with gratitude - from the UK Service Standard and the Ontario Digital Service Standard. In Ontario, the steps in their equivalent (Digital) Service Standard were recently enacted into legislation, making them mandatory. At this time, the BC Service Standard is intended only as a practical guide of concrete steps. 
 
-## The Digital Service Standard 
+# The Digital Service Standard 
 
 ## 1. Understand users and their needs
 
