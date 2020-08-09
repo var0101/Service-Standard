@@ -1,35 +1,20 @@
-# Service Standard
+# Digital Service Standard
 
-This Service Standard is being established as a work-in-progress proof of concept for the Government of British Columbia. The intent is 
+This Digital Service Standard is being established as a work-in-progress proof of concept for the Government of British Columbia. The intent is 
 for this Standard to guide internet era teams to create and run great public services, no matter the channel through which those services are delivered (i.e. whether digital or not). 
 
-## The Service Standard in Context
+## The Digital Service Standard in Context
 
-This Service Standard is envisioned to be part of an interconnected set of guidance and standards for all BC Public Service employees engaged in applying the culture, processes, business models and technology of the internet era to meeting the needs and expectations of the people of British Columbia - that is to say, the Digital BC community: 
+This Digital Service Standard is envisioned to be part of an interconnected set of guidance and standards for all BC Public Service employees engaged in applying the culture, processes, business models and technology of the internet era to meeting the needs and expectations of the people of British Columbia - that is to say, the Digital BC community: 
 
 * Our British Columbia Public Service Oath of Employment (https://www2.gov.bc.ca/assets/gov/careers/managers-supervisors/managing-employee-labour-relations/oath_of_employment.pdf) and Standards of Conduct (https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct);
 * A set of (DRAFT) Digital Principles - fundamental propositions - intended to serve as the foundation for a system of behaviors to guide the work of the Digital BC community; 
-* This new (DRAFT) Service Standard; and
-* For those using technology, a new (DRAFT) Technology Code of Practice, a set of criteria to help government design, build and buy technology. This Code of Practice is intended to be used as a cross-government agreed standard as part of the in-development spend controls process for the development of new digital (IMIT) products and services.
+* For those creating digital services, this new (DRAFT) Digital Service Standard; and
+* For those using technology, a new (DRAFT) Technology Code of Practice, a set of criteria to help government design, build, and buy better technology. The Code is envisioned to be used as a cross-government agreed standard in government's new technology funding review process.
 
 It is envisioned that this Standard will eventually reside as a GitHub repository at https://github.com/bcgov/ and online at a location to be determined (which may or may not be https://digital.gov.bc.ca/). The content has been borrowed heavily - with gratitude - from the UK Service Standard and the Ontario Digital Service Standard. In Ontario, the steps in their equivalent (Digital) Service Standard were recently enacted into legislation, making them mandatory. At this time, the BC Service Standard is intended only as a practical guide of concrete steps. 
 
-
-
----
-
-## Release Stages
-
-We’re in the early days of bringing this standard to life. We encourage
-you to adopt as much of the standard as possible, and to share your
-feedback with us.
-
-| User needs |            |
-| ---------- | ---------- |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="https://github.com/rumoncarter/Service-Standard/blob/master/dna-strand1.png" width="100"> | <h3>Discovery (December 2019)</h3>Conducting user research to understand their needs |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="https://github.com/rumoncarter/Service-Standard/blob/master/dna-strand2.png" width="100"> | <h3>Alpha (January 2020-February 2020)</h3>Testing our hypotheses with users |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="https://github.com/rumoncarter/Service-Standard/blob/master/dna-strand3.png" width="100"> | <h3>Beta (From March 2020)</h3>Developing a minimum viable service |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="https://github.com/rumoncarter/Service-Standard/blob/master/dna-strand4.png" width="100"> | <h3>Live</h3>Continuing to improve based on user feedback |
+## The Digital Service Standard 
 
 ## 1. Understand users and their needs
 
